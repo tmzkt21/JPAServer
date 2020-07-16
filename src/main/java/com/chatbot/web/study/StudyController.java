@@ -6,5 +6,6 @@ import javax.persistence.EntityManager;
 
 public class StudyController {
     @Autowired EntityManager entityManager;
+
 }
 
